@@ -11,7 +11,7 @@ function uuidv4() {
   });
 }
 
-const LOCAL_STORAGE_KEY = 'todoApp'
+const LOCAL_STORAGE_KEY = 'github.com/ericckzhou'
 
 function App() {
   const [todos, setTodos] = useState([])
