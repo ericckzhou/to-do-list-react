@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18;
+    color: white;
+}
+div{
+    text-align: center;
+}
+input {
+    border: 2px solid white;
+    padding: 5px;
+}
+input:focus{
+    background-color: white;
+    color: black;
+}
+input:hover{
+    cursor: pointer;
+}
+button {
+    margin-top: 10px;
+    border: 2px solid white;
+    padding: 5px;
+}
+button:hover{
+    background-color: #282828;
+    cursor: pointer;
+}
+button:focus{
+    background-color: #282828;
+}
